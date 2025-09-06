@@ -51,8 +51,8 @@ Desde la interfaz podrás ejecutar y observar de forma integrada:
 - Lanzamiento del robot y sus sensores
 - Navegación autónoma
 - Guardado de mapas
-- Detección de objetos con diferentes modelos de IA
-- Seguimiento de objetos específicos
+- Detección de objetos con las redes neuronales YOLOv8 y Grounding DINO
+- Seguimiento de objetos específicos usando las redes neuronales YOLOv8 y Grounding DINO
 - Carga de mapas en formato .pgm y .png
 - Consulta de estado de procesos
 - Cierre de emergencia de los procesos
