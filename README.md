@@ -14,12 +14,13 @@ La forma **recomendada** de uso es a través de la **interfaz gráfica**, que la
 Para configurar correctamente el proyecto, se deben seguir los siguientes pasos:
 
 1. **Crear el espacio de trabajo (si no existe):**  
-   Ejecutar el siguiente comando para crear la carpeta `espacioDeTrabajo` con la estructura necesaria:
+   Ejecutar el siguiente comando para crear la carpeta `EspacioDeTrabajo` con la estructura necesaria:
    ```bash
-   mkdir -p /espacioDeTrabajo/src
+   mkdir -p /EspacioDeTrabajo/src
 
 2. **Clonar el repositorio go2_robot_sdk mencionado en la memoria dentro de src:**
-Acceder a la carpeta src del espacio de trabajo y clonar el repositorio:
-
-cd /espacioDeTrabajo/src
-git clone <URL_DEL_REPO_GO2_SDK> go2_robot_sdk
+   Acceder a la carpeta src del espacio de trabajo y clonar el repositorio:
+   
+   ```bash
+   cd /espacioDeTrabajo/src
+   git clone <URL_DEL_REPO_GO2_SDK> go2_robot_sdk
