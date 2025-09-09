@@ -122,6 +122,13 @@ Para más información sobre la implementación y detalles técnicos, consultar 
 
 ---
 
+## 🎥 Demostración en YouTube
+
+Mira la demostración del proyecto en este vídeo:  
+👉 https://youtu.be/Ee76DDSeNbM
+
+---
+
 ## 👨‍💻 Autor
 
 **José Carlos Penalva Maciá**  
