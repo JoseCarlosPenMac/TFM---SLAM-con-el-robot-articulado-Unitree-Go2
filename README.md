@@ -124,8 +124,7 @@ Para más información sobre la implementación y detalles técnicos, consultar 
 
 ## 🎥 Demostración en YouTube
 
-Mira la demostración del proyecto en este vídeo:  
-👉 https://youtu.be/Ee76DDSeNbM
+[![SLAM con el robot articulado Unitree Go2](https://img.youtube.com/vi/Ee76DDSeNbM/0.jpg)](https://youtu.be/Ee76DDSeNbM)
 
 ---
 
